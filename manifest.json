@@ -3,6 +3,7 @@
   "short_name": "囤货",
   "description": "管理家里的食品、药品、日用品的保质期提醒",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#667eea",
